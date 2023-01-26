@@ -3,6 +3,8 @@ import { goToFeed, goToLogin } from "../../routes/coordinator";
 import { FormContainer, InputContainer } from "./styled";
 
 function SignUpPage() {
+  
+
   const navigate = useNavigate();
 
   return (
